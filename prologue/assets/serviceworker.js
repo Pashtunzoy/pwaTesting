@@ -1,8 +1,6 @@
 var CACHE_NAME = "prologue-cache-v1";
 var DATA_CACHE_NAME = 'prologue-v1';
 var filesToCache = [
-  '/',
-  '/index.html',
   '/images/avatar.jpg'
 ];
 
